@@ -9,6 +9,8 @@
   -------
 
 In this project we try to control our bot using bluetooth. This is a simple code based on working of bluetooth, and the commands given in our user device/ phone.
+While coding make sure you give the righ tbaud rate at which bluetooth data is transmitted. 
+Once you download the controller app on your phone connect your phone to the bot, in this case the name of bot is "blue" so we connected to blue.
 
 #Output:
 
